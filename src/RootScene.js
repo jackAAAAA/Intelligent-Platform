@@ -102,7 +102,7 @@ const Tab = createBottomTabNavigator({
 )
 
 Tab.navigationOptions = {
-    header: null,
+    headerShown: false,
 }
 
 const AppNavigator = createStackNavigator({
