@@ -23,7 +23,7 @@ type State = {
 class HomeGridView extends PureComponent<Props, State> {
 
     render() {
-        let { infos, onGridSelected } = this.props
+        let { infos, onGridSelected, } = this.props
         return (
             <View style={styles.container}>
                 {infos.map((info, index) => (

@@ -28,7 +28,7 @@ type State = {
     // refreshing: boolean,
 }
 
-class HomeScene extends PureComponent<Props, State> {
+class ShopScene extends PureComponent<Props, State> {
 
     static navigationOptions = () => ({
         headerStyle: { backgroundColor: color.paper },
@@ -130,7 +130,7 @@ class HomeScene extends PureComponent<Props, State> {
     renderHeader = () => {
         return (
             <View>
-                <HomeMenuView 
+                <HomeMenuView
                     menuInfos={api.menuInfos}
                     onMenuSelected={(index) => {
                         // alert('test ' + index)
@@ -232,4 +232,4 @@ const styles = StyleSheet.create({
     },
 })
 
-export default HomeScene
+export default ShopScene

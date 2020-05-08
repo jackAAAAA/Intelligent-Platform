@@ -24,13 +24,13 @@ type State = {
 class GroupPurchaseCell extends PureComponent<Props, State> {
 
     render() {
-        let { info } = this.props
+        let { info, style, } = this.props
         let imageUrl = info.imageUrl.replace('w.h', '160.0')
         return (
             <TouchableOpacity style={styles.container} onPress={() => {
                 this.props.onPress(info)
             }}>
-                <Image style={styles.icon} source={{ uri: imageUrl }} />
+                <Image style={[styles.icon, style]} source={{ uri: imageUrl }} />
                 <View style={styles.rightContainer}>
                     <Heading2>{info.title}</Heading2>
                     <Paragraph numberOfLines={0} style={{ marginTop: 8 }}>{info.subtitle}</Paragraph>

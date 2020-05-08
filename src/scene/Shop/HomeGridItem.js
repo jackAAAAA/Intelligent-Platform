@@ -24,11 +24,11 @@ class HomeGridItem extends PureComponent<Props, State> {
 
     render() {
 
-        let { info } = this.props
+        let { info, } = this.props
         let title = info.maintitle
         let color = info.typeface_color
         let subtitle = info.deputytitle
-        let imageUrl = info.imageurl.replace('w.h', '120.0')
+        let imageUrl = info.imageurl
 
         return (
             <TouchableOpacity style={styles.container} onPress={this.props.onPress}>

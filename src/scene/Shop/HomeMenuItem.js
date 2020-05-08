@@ -37,11 +37,11 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
         width: screen.width,
-        height: screen.width / 5,
+        height: screen.width / 2,
     },
     icon: {
-        width: screen.width / 3,
-        height: screen.width / 5,
+        width: screen.width,
+        height: Math.ceil(screen.width / 2.5),
         margin: 5,
     }
 })

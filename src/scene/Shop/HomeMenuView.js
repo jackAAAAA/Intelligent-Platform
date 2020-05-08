@@ -97,8 +97,7 @@ const styles = StyleSheet.create({
         backgroundColor: 'white',
     },
     itemsView: {
-        flexDirection: 'row',
-        flexWrap: 'wrap',
+        flex: 1,
         width: screen.width,
     },
     PageControl: {
