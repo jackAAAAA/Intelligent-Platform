@@ -1,12 +1,17 @@
 # Intelligent-Platform
 Intelligent Platform for intelligent devices.
+
 No.1——My health
-https://user-images.githubusercontent.com/37928802/82169472-306b4500-98f4-11ea-983f-f5969991e8ab.png
-No.2——Intelligence
-https://user-images.githubusercontent.com/37928802/82169424-103b8600-98f4-11ea-9c3e-b12e3a59639d.png
-No.3——Shop
-https://user-images.githubusercontent.com/37928802/82169451-247f8300-98f4-11ea-99eb-b57aa864d93f.png
+![Screenshot_1589769413](https://user-images.githubusercontent.com/37928802/82169773-2138c700-98f5-11ea-8bdf-c2d63cc74f0d.png)
+
+No.2——Shop
+![Screenshot_1589769426](https://user-images.githubusercontent.com/37928802/82169786-29910200-98f5-11ea-8cf4-9bc1ef01d55d.png)
+
+No.3——Intelligence
+![Screenshot_1589769439](https://user-images.githubusercontent.com/37928802/82169793-2f86e300-98f5-11ea-86f9-bfe735b50681.png)
+
 No.4——Mine
-https://user-images.githubusercontent.com/37928802/82169461-2b0dfa80-98f4-11ea-94bf-a1fe8cebb8b8.png
+![Screenshot_1589769443](https://user-images.githubusercontent.com/37928802/82169800-34e42d80-98f5-11ea-992c-13fd511cd041.png)
+
 If you want to know more,please contact me by my email.
 Thanks!
